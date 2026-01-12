@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/z365/static/css/main.202ca3c3.css",
+    "main.js": "/z365/static/js/main.692f9adc.js",
+    "static/js/453.d37bcb50.chunk.js": "/z365/static/js/453.d37bcb50.chunk.js",
+    "index.html": "/z365/index.html",
+    "main.202ca3c3.css.map": "/z365/static/css/main.202ca3c3.css.map",
+    "main.692f9adc.js.map": "/z365/static/js/main.692f9adc.js.map",
+    "453.d37bcb50.chunk.js.map": "/z365/static/js/453.d37bcb50.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.202ca3c3.css",
+    "static/js/main.692f9adc.js"
+  ]
+}
